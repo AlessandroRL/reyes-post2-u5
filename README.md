@@ -23,13 +23,13 @@ El proyecto utiliza una arquitectura en capas:
 ## Evidencia de Funcionamiento
 
 ### 1. Documentación Swagger UI
-![Swagger UI](docs/swagger.png)  
+![Swagger UI](assets/swagger.png)  
 *Se visualizan los endpoints de /api/v2/libros.*
 
 ### 2. Validación de Datos (Error 400)
-![Validacion 400](docs/error_400.png)  
+![Validacion 400](assets/error_400.png)  
 *Respuesta JSON al enviar campos obligatorios vacíos.*
 
 ### 3. Recurso No Encontrado (Error 404)
-![Not Found 404](docs/error_404.png)  
+![Not Found 404](assets/error_404.png)  
 *Respuesta JSON al buscar un ID inexistente.*
